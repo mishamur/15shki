@@ -1,0 +1,6 @@
+C:\Users\misha\source\repos\SolutionBlankF\BoardF\bin\Debug\BoardF.dll
+C:\Users\misha\source\repos\SolutionBlankF\BoardF\bin\Debug\BoardF.pdb
+C:\Users\misha\source\repos\SolutionBlankF\BoardF\obj\Debug\BoardF.csprojAssemblyReference.cache
+C:\Users\misha\source\repos\SolutionBlankF\BoardF\obj\Debug\BoardF.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\SolutionBlankF\BoardF\obj\Debug\BoardF.dll
+C:\Users\misha\source\repos\SolutionBlankF\BoardF\obj\Debug\BoardF.pdb
